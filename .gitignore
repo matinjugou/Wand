@@ -1,0 +1,5 @@
+.idea
+bazel*
+dependency/opencv/
+dependency/opencv.zip
+.DS_Store
